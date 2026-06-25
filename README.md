@@ -10,8 +10,10 @@ US Bikeshare Data Analysis
 This project analyzes bikeshare data from Chicago, New York City, and Washington. Users can filter the data by city, month, and day of the week, then view statistics about travel times, popular stations, trip durations, and user demographics.
 
 ### Files used
-Include the files used
+- bikeshare_2.py
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This project was completed as part of the Udacity Programming for Data Science with Python Nanodegree. I used the project walkthrough to help me. 
