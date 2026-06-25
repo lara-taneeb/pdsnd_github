@@ -16,4 +16,4 @@ This project analyzes bikeshare data from Chicago, New York City, and Washington
 - washington.csv
 
 ### Credits
-This project was completed as part of the Udacity Programming for Data Science with Python Nanodegree. I used the project walkthrough to help me. 
+This project was completed as part of the Udacity Programming for Data Science with Python Nanodegree. I used the project walkthroughs to help me. 
