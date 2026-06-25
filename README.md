@@ -7,7 +7,7 @@ June 23, 2026
 US Bikeshare Data Analysis
 
 ### Description
-This project analyzes bikeshare data from Chicago, New York City, and Washington. Users can filter the data by city, month, and day of the week, then view statistics about travel times, popular stations, trip durations, and user demographics.
+This project analyzes bikeshare data from Chicago, New York City, and Washington. Users can filter the data by city, month, and day of the week, then view statistics about travel times, popular stations, trip durations, and user demographics. It can also show raw data. 
 
 ### Files used
 - bikeshare_2.py
